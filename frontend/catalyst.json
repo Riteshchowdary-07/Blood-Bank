@@ -1,0 +1,8 @@
+{
+  "name": "LifeLink-NATIONAL-BLOOD-NETWORK",
+  "framework": "React + Vite",
+  "build": {
+    "command": "npx vite build",
+    "directory": "dist"
+  }
+}
