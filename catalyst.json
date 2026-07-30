@@ -2,6 +2,6 @@
   "name": "LifeLink-NATIONAL-BLOOD-NETWORK",
   "build": {
     "command": "cd frontend && npm install && npx vite build",
-    "directory": "frontend/dist"
+    "directory": "dist"
   }
 }
